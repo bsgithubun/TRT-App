@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../unused files/SQL_App"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
